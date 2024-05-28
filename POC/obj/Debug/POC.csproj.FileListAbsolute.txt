@@ -1,0 +1,12 @@
+C:\Users\paritoshlouhan\source\repos\POC\POC\bin\Debug\POC.exe.config
+C:\Users\paritoshlouhan\source\repos\POC\POC\bin\Debug\POC.exe
+C:\Users\paritoshlouhan\source\repos\POC\POC\bin\Debug\POC.pdb
+C:\Users\paritoshlouhan\source\repos\POC\POC\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\paritoshlouhan\source\repos\POC\POC\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\paritoshlouhan\source\repos\POC\POC\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\paritoshlouhan\source\repos\POC\POC\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\paritoshlouhan\source\repos\POC\POC\obj\Debug\POC.csproj.AssemblyReference.cache
+C:\Users\paritoshlouhan\source\repos\POC\POC\obj\Debug\POC.csproj.CoreCompileInputs.cache
+C:\Users\paritoshlouhan\source\repos\POC\POC\obj\Debug\POC.csproj.CopyComplete
+C:\Users\paritoshlouhan\source\repos\POC\POC\obj\Debug\POC.exe
+C:\Users\paritoshlouhan\source\repos\POC\POC\obj\Debug\POC.pdb
